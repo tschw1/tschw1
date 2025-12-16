@@ -1,18 +1,16 @@
-# Hi there 👋
+# Hello there 👋
 
-### I'm Toni, 20 years old and currently I work as a corporate student in business IT 📊💻
+### My name is Toni, I’m 20 years old, and I currently work as a corporate student in business IT 📊💻
 
-I was coding in the past on some basic websites and Python projects like Discord bots. 
-I was also writing a few Python scripts at work to automate user management with APIs. That was pretty cool because those were my first "real" projects that really had a purpose 🙂 
+In the past, I was coding some basic websites and Python projects like Discord bots. I also wrote a few Python scripts at work to automate user management with APIs. Those were my first „real“ projects with a clear purpose, and they were quite exciting 🙂
 
-So I am mostly into Python coding, but I want to learn web developement a bit right now 📖. I really like how quickly you can build small apps with Js Frameworks like NestJs. You build a quick backend, link a database and you're ready to feed your frontend with some data 💾 
+I’m primarily focused on Python coding, but I’m eager to learn more about web development at the moment 📖. In web development, I really appreciate how quickly you can create small applications with JavaScript frameworks like NestJs. You build a quick backend, connect a database, and you’re ready to supply your frontend with data 💾
 
-Sadly my skills in this area aren't really advanced. But thanks to being a corporate student I got approved for GitHub Education! So I hope I'll find a few courses or developer tools/resources there that will help me to learn a few new things 🤓
+Unfortunately, my skills in this area aren’t very advanced yet. However, as a corporate student, I’ve been approved for GitHub Education! I hope to find some courses or developer tools/resources there that will help me learn new things 🤓
 
-So if you want to accompany me on my journey. Watch me suffer, celebrate and everything in between. Then feel free to take a look at my profile and leave a bit of feedback if you want 😇
+If you’d like to join me on my journey, watch me struggle, celebrate, and everything in between. Feel free to check out my profile and leave some feedback if you wish 😇
 
-Oh and I am from Germany 🇩🇪 btw, so sometimes when I'm coding at 2am my brain isn't really braining anymore and the translation processes are a bit too much. So if you're reading any weird sounding commits here, that's probably because of that 🫩😂
-
+Oh, and by the way, I’m from Germany 🇩🇪. So sometimes when I’m coding at 2 am, my brain isn’t braning, and the translation processes become a bit overwhelming. If you come across any oddly worded commits here, that’s probably the reason 🫩😂
 
 <!--
 **tschw1/tschw1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
