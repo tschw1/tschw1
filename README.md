@@ -5,7 +5,7 @@
 I was coding in the past on some basic websites and Python projects like Discord bots. 
 I was also writing a few Python scripts at work to automate user management with APIs. That was pretty cool because those were my first "real" projects that really had a purpose 🙂 
 
-So right now I am mostly into Python coding, but I want to learn web developement a bit right now 📖. I really like how quickly you can build small apps with Js Frameworks like NestJs. You build a quick backend, link a database and you're ready to feed your frontend with some data 💾 
+So I am mostly into Python coding, but I want to learn web developement a bit right now 📖. I really like how quickly you can build small apps with Js Frameworks like NestJs. You build a quick backend, link a database and you're ready to feed your frontend with some data 💾 
 
 Sadly my skills in this area aren't really advanced. But thanks to being a corporate student I got approved for GitHub Education! So I hope I'll find a few courses or developer tools/resources there that will help me to learn a few new things 🤓
 
